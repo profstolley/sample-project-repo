@@ -12,5 +12,5 @@ Look at the repo to understand the layout of its files and directories (folders)
     ├── resume
     │   └── index.html
     ├── .htmllintrc
-    ├── index.html
-    └── README.md
+    ├── README.md
+    └── index.html
