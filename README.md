@@ -9,7 +9,8 @@ Look at the repo to understand the layout of its files and directories (folders)
     ./
     ├── about
     │   └── index.html
-    └── resume
+    ├── resume
     │   └── index.html
+    ├── .htmllintrc
     ├── index.html
     └── README.md
